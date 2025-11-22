@@ -80,7 +80,7 @@ Exit
 Enter your choice: 1
 
 Enter Roll No: 101
-Enter Name: Riya
+Enter Name: yukti
 Enter Email: yukti@mail.com
 Enter Course: btech
 Enter Marks: 90

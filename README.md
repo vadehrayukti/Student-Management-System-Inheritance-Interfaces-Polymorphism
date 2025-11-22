@@ -79,7 +79,7 @@ Delete Student
 Exit
 Enter your choice: 1
 
-Enter Roll No: 101
+Enter Roll No: 128
 Enter Name: yukti
 Enter Email: yukti@mail.com
 Enter Course: btech

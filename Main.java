@@ -3,7 +3,7 @@ public class Main {
 
         StudentManager manager = new StudentManager();
 
-        Student s1 = new Student(101, "yukti", "yukti@mail.com", "B.Tech", 85);
+        Student s1 = new Student(128, "yukti", "yukti@mail.com", "B.Tech", 85);
 
         manager.addStudent(s1);
 
@@ -20,3 +20,4 @@ public class Main {
         Thread.sleep(1000);
     }
 }
+
